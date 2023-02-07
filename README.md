@@ -12,8 +12,13 @@ Student developer who breaths technology is in love for coding, look forward to 
 
 <div>
     <a href="https://github.com/GuiDecker">
+      <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=GuiDecker&show_icons=true&theme=dracula&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=GuiDecker&layout=compact&theme=dracula">
+    
+  <!--
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiDecker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDecker&layout=compact&langs_count=16&theme=dracula"/>
+    -->
 <div/>
 
 <div style="display: inline_block"><br>
