@@ -12,7 +12,7 @@ Student developer who breaths technology is in love for coding, look forward to 
 
 <div>
     <a href="https://github.com/GuiDecker">
-      <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=GuiDecker&show_icons=true&theme=Moonlight&count_private=true">
+      <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=GuiDecker&show_icons=true&theme=oonlight&count_private=true">
     <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=GuiDecker&layout=compact&theme=dracula">
     
   <!--
