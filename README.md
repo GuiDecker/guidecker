@@ -1,6 +1,6 @@
 ### Heyy! I am GuiLherme👋
 
-Student developer who breaths technology is in love for coding, look forward to making the world better with my skills.
+developer who breaths technology is in love for coding, look forward to making the world better with my skills.
 
 ##
 
